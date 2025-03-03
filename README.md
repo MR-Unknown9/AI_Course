@@ -14,11 +14,11 @@ Welcome to the AI Course Codes repository! This repository contains code example
 
 ### Introduction
 
-This repository includes various AI-related projects and code snippets that I've worked on during my AI course, which is part of a collaboration between NTI and Huawei. The projects cover a range of topics, including machine learning, deep learning, natural language processing, and computer vision. Feel free to explore, use, and contribute!
+This repository includes various AI-related projects and code snippets I've worked on during my AI course, which is part of a collaboration between NTI and Huawei. The projects cover various topics, including machine learning, deep learning, natural language processing, and computer vision. Feel free to explore, use, and contribute!
 
 ### usage
 
-This Project/ projects is for learning and implementing what I have learned in the course and in my searching journey, **that means this code might contain some mistakes or even not effetiont** so if you find any bugs or have any advices for me, please go ahead and contact me.
+This Project/ projects is for learning and implementing what I have learned in the course and in my searching journey, **that means this code might contain some mistakes or even not be effective** so if you find any bugs or have any advice for me, please go ahead and contact me.
 
 ### projects
 
@@ -37,20 +37,17 @@ AI_Course/
 ├── .gitignore
 ├── README.md
 ├── src/
-│   ├── project1/
-│   │   ├── main.py
-│   │   ├── README.md
-│   ├── project2/
+│   ├── titanic/
 │   │   ├── main.py
 │   │   ├── README.md
 ├── data/
-│   ├── project1/
-│   │   ├── data.csv
-│   ├── project2/
-│   │   ├── data.csv
+│   ├── titanic/
+│   │   ├── Titanic-Dataset.csv
 ├── notebooks/
-│   ├── project1_notebook.ipynb
-│   ├── project2_notebook.ipynb
+│   ├── titanic _notebook.ipynb
+├── plots/
+│   ├── titanic/
+│   │   ├── Survived.png
 ```
 
 ### Installation
