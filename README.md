@@ -22,13 +22,11 @@ This Project/ projects is for learning and implementing what I have learned in t
 
 ### projects
 
-- project1
-- project2
+- titanic
 
 ### data
 
-- project1_data
-- prject2_data
+- Titanic-Dataset
 
 ### structure
 
